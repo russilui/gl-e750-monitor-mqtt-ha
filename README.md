@@ -1,4 +1,4 @@
-# gl-e750-monitor-mqtt -- PRIVATE
+# gl-e750-monitor-mqtt-ha
 
 My personal configuration based on [gl-e750-monitor repo](https://github.com/mazzz1y/gl-e750-monitor) using mqtt to publish data and alert messages to [Home Assistant](https://www.home-assistant.io/).
 
