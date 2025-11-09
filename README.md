@@ -44,4 +44,4 @@ mqtt:
       device: {"identifiers":"openwrt_mcu","name":"OpenWrt Monitor","sw_version":"1.0.0","manufacturer":"GL.iNET","model":"Mudi"}
 ```
 ## Result
-![Screen Shot 2024-01-02 at 20 36 09](https://github.com/russilui/gl-e750-monitor-mqtt/assets/64688653/b8edd482-5917-48ef-8604-76aa398a4537)
+![Screen Shot 2024-01-02 at 20 36 09](https://github.com/russilui/gl-e750-monitor-mqtt/assets/64688653/b8edd482-5917-48ef-8604-76aa398a4537.png)
